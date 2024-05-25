@@ -1,0 +1,6 @@
+@ASPCRUD_HostAddress = http://localhost:5211
+
+GET {{ASPCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
